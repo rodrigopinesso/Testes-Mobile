@@ -1,0 +1,61 @@
+{
+  "viagens": [
+    {
+      "id": "1730834560309",
+      "nome": "memphis",
+      "dataInicio": "2024-11-05T16:22:40.309",
+      "dataFim": "2024-11-05T16:22:40.309",
+      "destino": "sampaio correa",
+      "descricao": "futebol e bebidas"
+    },
+    {
+      "id": "1730834826363",
+      "nome": "yuri",
+      "dataInicio": "2024-11-05T16:27:06.363",
+      "dataFim": "2024-11-05T16:27:06.363",
+      "destino": "alberta",
+      "descricao": "the last dance"
+    },
+    {
+      "id": "1730834997401",
+      "nome": "terra",
+      "dataInicio": "2024-11-05T16:29:57.401",
+      "dataFim": "2024-11-05T16:29:57.401",
+      "destino": "marte",
+      "descricao": "jupiter"
+    },
+    {
+      "id": "1730852925545",
+      "nome": "jao",
+      "dataInicio": "2024-11-05T21:28:45.545",
+      "dataFim": "2024-11-05T21:28:45.545",
+      "destino": "cui9aba",
+      "descricao": "deydy"
+    },
+    {
+      "id": "1730853500611",
+      "nome": "dwqddqwdqwd",
+      "dataInicio": "2024-11-05T21:38:20.611",
+      "dataFim": "2024-11-05T21:38:20.611",
+      "destino": "wqdwqd",
+      "descricao": "wdwqd"
+    },
+    {
+      "id": "1730854421377",
+      "nome": "dwd",
+      "dataInicio": "2024-11-05T21:53:41.377",
+      "dataFim": "2024-11-05T21:53:41.377",
+      "destino": "wdw",
+      "descricao": "dd"
+    }
+  ],
+  "entradasDiario": [
+    {
+      "id": "1",
+      "titulo": "Visita à Torre Eiffel",
+      "data": "2024-06-03",
+      "conteudo": "Hoje visitamos a icônica Torre Eiffel e experimentamos croissants em uma padaria local.",
+      "viagemId": "1"
+    }
+  ]
+}
